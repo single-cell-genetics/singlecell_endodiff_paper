@@ -9,6 +9,8 @@ This repository contains scripts for data processing, analysis and figure genera
 The following folders contain scripts for data processing and analysis.
 A short description can be found below:
 
+* [QC and merging steps](../master/merging_and_qc/) contains jupyter notebooks to merge experiment-level SCE objects and perform QC and normalization steps to obtain the final SCE object used for all following analyses.
+
 * [Plotting Notebooks](../master/plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
 
 
