@@ -2,7 +2,15 @@
 
 This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq, bulk RNA-seq and ChIP-seq data.
 
-## Raw Data availability
+## Analysis scripts
+
+The following folders contain scripts for data processing and analysis.
+A short description can be found below:
+
+* [Plotting Notebooks](../master/plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
+
+
+## Data availability 
 All HipSci data can be accessed from http://www.hipsci.org.
 
 ### Bulk RNA-seq
@@ -12,6 +20,6 @@ Single cell RNA-seq data are available under the accession numbers ERP016000 (EN
 ### ChIP-seq
 All Chip-seq data used is available at PRJNA593217. 
 
-## Processed Data availability
+### Processed Data 
 Processed single cell count data and metadata are available from Zenodo: https://zenodo.org/record/3625024#.Xil-0y2cZ0s
 
