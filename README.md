@@ -1,6 +1,8 @@
 # Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression
 
-This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq, bulk RNA-seq and ChIP-seq data.
+This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq, bulk RNA-seq and ChIP-seq data for our paper:
+
+[Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression](https://www.nature.com/articles/s41467-020-14457-z)
 
 ## Analysis scripts
 
@@ -23,7 +25,5 @@ All Chip-seq data used is available at PRJNA593217.
 ### Processed Data 
 Processed single cell count data and metadata are available from Zenodo: https://zenodo.org/record/3625024#.Xil-0y2cZ0s
 
-The paper can be found at:
 
-[Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression](https://www.nature.com/articles/s41467-020-14457-z)
 
