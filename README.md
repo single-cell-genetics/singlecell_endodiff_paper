@@ -27,7 +27,7 @@ Single cell RNA-seq data are available under the accession numbers ERP016000 (EN
 All Chip-seq data used is available at PRJNA593217. 
 
 ### Processed Data 
-Processed single cell count data and metadata are available from Zenodo: https://zenodo.org/record/3625024#.Xil-0y2cZ0s
+Processed single cell count data and metadata are available from Zenodo: https://zenodo.org/record/3625024.
 
 
 
