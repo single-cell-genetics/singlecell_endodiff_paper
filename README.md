@@ -1,4 +1,4 @@
-[![doi 10.5281/zenodo.3625024](https://zenodo.org/badge/DOI/10.5281/zenodo.3625024.svg)](https://doi.org/10.5281/zenodo.3625024)
+[![doi 10.1101/zenodo.3625024](https://zenodo.org/badge/DOI/10.1101/zenodo.3625024.svg)](https://doi.org/10.1101/zenodo.3625024)
 
 # Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression
 
