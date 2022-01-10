@@ -1,5 +1,3 @@
-[![doi 10.1101/zenodo.630996](https://zenodo.org/badge/DOI/10.1101/zenodo.630996.svg)](https://doi.org/10.1101/zenodo.630996)
-
 # Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression
 
 This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq, bulk RNA-seq and ChIP-seq data for our paper:
