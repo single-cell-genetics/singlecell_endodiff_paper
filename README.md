@@ -9,11 +9,11 @@ This repository contains scripts for data processing, analysis and figure genera
 The following folders contain scripts for data processing and analysis.
 A short description can be found below:
 
-* [Preprocessing steps](../master/scrnaseq_preprocessing/) contains snakemake files to process the sequencing data (including alignment, donor assignment etc.).
+* [Preprocessing steps](../main/scrnaseq_preprocessing/) contains snakemake files to process the sequencing data (including alignment, donor assignment etc.).
 
-* [QC and merging steps](../master/merging_and_qc/) contains jupyter notebooks to merge experiment-level SCE objects and perform QC and normalization steps to obtain the final SCE object used for all following analyses.
+* [QC and merging steps](../main/merging_and_qc/) contains jupyter notebooks to merge experiment-level SCE objects and perform QC and normalization steps to obtain the final SCE object used for all following analyses.
 
-* [Plotting Notebooks](../master/plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
+* [Plotting Notebooks](../main/plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
 
 
 ## Data availability 
@@ -27,7 +27,9 @@ Single cell RNA-seq data are available under the accession numbers ERP016000 (EN
 All Chip-seq data used is available at PRJNA593217. 
 
 ### Processed Data 
-Processed single cell count data and metadata are available from Zenodo: https://zenodo.org/record/3625024.
+Processed and raw single cell count data, metadata, as well as donor-level allele-specific expression (ASE) data are available at [this Zenodo link](https://zenodo.org/record/3625024). 
+Note that raw counts are not integer numbers due to feature quantification being performed using [Salmon](). 
+See details of preprocessing steps in [the Snakefile provided]().
 
 
 
