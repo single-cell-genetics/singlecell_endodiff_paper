@@ -2,7 +2,7 @@
 
 This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq, bulk RNA-seq and ChIP-seq data for our paper:
 
-[Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression](https://www.nature.com/articles/s41467-020-14457-z)
+Cuomo*, Seaton*, McCarthy* et al. [Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression](https://www.nature.com/articles/s41467-020-14457-z), Nature Communications, 2020.
 
 ## Analysis scripts
 
