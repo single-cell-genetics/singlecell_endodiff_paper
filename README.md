@@ -28,8 +28,8 @@ All Chip-seq data used is available at PRJNA593217.
 
 ### Processed Data 
 Processed and raw single cell count data, metadata, as well as donor-level allele-specific expression (ASE) data are available at [this Zenodo link](https://zenodo.org/record/3625024). 
-Note that raw counts are not integer numbers due to feature quantification being performed using [Salmon](). 
-See details of preprocessing steps in [the Snakefile provided]().
+Note that raw counts are not integer numbers due to feature quantification being performed using [Salmon](https://www.nature.com/articles/nmeth.4197). 
+See details of preprocessing steps in [the Snakefile provided](../main/scrnaseq_preprocessing/Snakefile).
 
 
 
