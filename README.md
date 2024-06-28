@@ -12,9 +12,9 @@ A short description can be found below:
 
 * [Preprocessing steps](scrnaseq_preprocessing/) contains snakemake files to process the sequencing data (including alignment, donor assignment etc.).
 
-* [QC and merging steps](../main/merging_and_qc/) contains jupyter notebooks to merge experiment-level SCE objects and perform QC and normalization steps to obtain the final SCE object used for all following analyses.
+* [QC and merging steps](merging_and_qc/) contains jupyter notebooks to merge experiment-level SCE objects and perform QC and normalization steps to obtain the final SCE object used for all following analyses.
 
-* [Plotting Notebooks](../main/plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
+* [Plotting Notebooks](plotting_notebooks/) contains all jupyter notebooks to reproduce the individual figures (main and supplements).
 
 
 ## Data availability 
